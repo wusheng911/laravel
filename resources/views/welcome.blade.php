@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    特门
+                    哲里木盟
                 </div>
 
                 <div class="links">
