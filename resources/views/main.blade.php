@@ -9,6 +9,6 @@
 
     </head>
     <body>
-<embed allownetworking="none" allowscriptaccess="never" width="720" height="550" loop="false" menu="false" play="true" pluginspage="http://www.macromedia.com/go/getflashplayer" src="/flash/15.swf" type="application/x-shockwave-flash"wmode="window"></embed>
+<embed allownetworking="none" allowscriptaccess="never" width="720" height="550" loop="false" menu="false" play="true" pluginspage="http://www.macromedia.com/go/getflashplayer" src="/flash/master.swf" type="application/x-shockwave-flash"wmode="window"></embed>
     </body>
 </html>
